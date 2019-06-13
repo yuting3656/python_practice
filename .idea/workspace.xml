@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96ed544a-ef48-45a7-b1d7-753b6db9a485" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/ex_tkinter/example_04_tkinter_layout_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_python_basic/for_loop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex_tkinter/example_03_tkinter_layout.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_tkinter/example_03_tkinter_layout.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,17 +13,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.61970943">
+    <splitter split-orientation="horizontal" split-proportion="0.53758687">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="example_04_tkinter_layout_02.py" pinned="false" current-in-tab="true">
+          <file leaf-file-name="example_04_tkinter_layout_02.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/ex_tkinter/example_04_tkinter_layout_02.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="449">
-                  <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+                <state relative-caret-position="723">
+                  <caret line="39" column="48" lean-forward="true" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
                   <folding>
                     <element signature="e#0#21#0" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="for_loop.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/ex_python_basic/for_loop.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="552">
+                  <caret line="24" column="78" selection-start-line="24" selection-start-column="78" selection-end-line="24" selection-end-column="78" />
                 </state>
               </provider>
             </entry>
@@ -108,6 +116,7 @@
         <option value="$PROJECT_DIR$/ex_datetime/example_01.py" />
         <option value="$PROJECT_DIR$/ex_tkinter/example_03_tkinter_layout.py" />
         <option value="$PROJECT_DIR$/ex_tkinter/example_04_tkinter_layout_02.py" />
+        <option value="$PROJECT_DIR$/ex_python_basic/for_loop.py" />
       </list>
     </option>
   </component>
@@ -136,7 +145,7 @@
             <path>
               <item name="Python_dragon_son" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_dragon_son" type="462c0819:PsiDirectoryNode" />
-              <item name="ex_tkinter" type="462c0819:PsiDirectoryNode" />
+              <item name="ex_python_basic" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -160,7 +169,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.example_04_tkinter_layout_02">
+  <component name="RunManager" selected="Python.for_loop">
     <configuration name="example_01 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_dragon_son" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,24 +183,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_datetime/example_01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="example_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_dragon_son" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_subprocess" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_subprocess/example_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,20 +242,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="for_loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_dragon_son" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_python_basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_python_basic/for_loop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.example_01" />
       <item itemvalue="Python.example_02" />
       <item itemvalue="Python.example_01 (3)" />
       <item itemvalue="Python.example_03_tkinter_layout" />
       <item itemvalue="Python.example_04_tkinter_layout_02" />
+      <item itemvalue="Python.for_loop" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.for_loop" />
         <item itemvalue="Python.example_04_tkinter_layout_02" />
         <item itemvalue="Python.example_03_tkinter_layout" />
         <item itemvalue="Python.example_01 (3)" />
         <item itemvalue="Python.example_02" />
-        <item itemvalue="Python.example_01" />
       </list>
     </recent_temporary>
   </component>
@@ -285,10 +294,10 @@
     <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.16596417" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16596417" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.23824452" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.5015674" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Python Console" order="0" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
@@ -479,11 +488,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ex_tkinter/example_04_tkinter_layout_02.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        <state relative-caret-position="723">
+          <caret line="39" column="48" lean-forward="true" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex_python_basic/for_loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="78" selection-start-line="24" selection-start-column="78" selection-end-line="24" selection-end-column="78" />
         </state>
       </provider>
     </entry>
