@@ -3,12 +3,11 @@ from tkinter import ttk
 
 
 """
-本範例: tkinter 
-文件連結:
+本範例: tkinter layout
 """
 
 
-class Cool_Gui:
+class CoolGui:
     def __init__(self, master):
         self.master = master
         self._create_gui()
@@ -21,5 +20,5 @@ class Cool_Gui:
 
 if __name__ == "__main__":
     root = Tk()
-    Cool_Gui(root)
+    CoolGui(root)
     root.mainloop()
